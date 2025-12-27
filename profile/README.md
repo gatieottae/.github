@@ -76,12 +76,8 @@
 |---|---|
 | Frontend | React / TypeScript / Vite / Tailwind CSS |
 | Backend | Spring Boot (Spring Web, Spring Data JPA) |
-| Database | JPA / Hibernate / MySQL 또는 PostgreSQL |
+| Database | JPA / Hibernate / PostgreSQL |
 | Realtime | Spring WebSocket / Redis Pub/Sub |
-| Auth | JWT / Spring Security |
-| Infra | Docker / Nginx / EC2 |
-| Cache | Redis |
-| Batch (Option) | Spring Batch (로그 → ES 적재) |
 
 ---
 
