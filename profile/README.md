@@ -5,8 +5,18 @@
 
  👉 **[프로젝트 보드 바로가기 링크 🔗](https://github.com/orgs/gatieottae/projects/1)**
 
+<details open>
+<summary>👇 같이어때 화면 보기</summary>
 
-<img width="717" height="455" alt="스크린샷 2025-12-27 오후 3 45 04" src="https://github.com/user-attachments/assets/bd3c4e15-94ee-4fcc-9c4d-091fa020cacc" />
+<br/>
+<img width="1440" height="810" alt="화면1" src="https://github.com/user-attachments/assets/b1a54903-7731-4c1a-be36-383a1d35fc69" />
+<img width="1440" height="810" alt="화면2" src="https://github.com/user-attachments/assets/e09de363-7201-495d-b020-496e23aa3683" />
+<img width="1440" height="810" alt="화면3" src="https://github.com/user-attachments/assets/a6846fc5-4e6a-4801-89af-ee68d5f56bcd" />
+<img width="1440" height="810" alt="화면4" src="https://github.com/user-attachments/assets/ce7d38ad-4883-4d66-87e7-1ab92ffaf1dc" />
+<img width="1440" height="810" alt="화면5" src="https://github.com/user-attachments/assets/d02744fb-b00d-43bd-83dd-8a59d09ce2bf" />
+<img width="1440" height="810" alt="화면6" src="https://github.com/user-attachments/assets/0f9ae379-d307-47db-99af-a6ecd4399a65" />
+
+</details>
 
 ---
 
